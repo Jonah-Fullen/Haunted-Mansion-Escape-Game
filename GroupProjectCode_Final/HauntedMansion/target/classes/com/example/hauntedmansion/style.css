@@ -1,0 +1,9 @@
+.text-area *.text {
+    -fx-text-alignment: center;
+}
+
+.KeysText .content {
+   -fx-background-color: black ;
+   -fx-background-radius: 0 ;
+
+}
