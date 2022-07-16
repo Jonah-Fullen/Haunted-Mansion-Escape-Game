@@ -11,8 +11,8 @@ File Paths:
   GroupProjectCode_Final > HauntedMansion > src > main > java > com > example > hauntedmansion > HauntedMansionController.java
 
 3.	To View Used Object Classes:
-a.	GroupProjectCode_Final > HauntedMansion > src > main > java > com > example > hauntedmansion > Room.java
-b.	GroupProjectCode_Final > HauntedMansion > src > main > java > com > example > hauntedmansion > SearchableObject.java
+a)	GroupProjectCode_Final > HauntedMansion > src > main > java > com > example > hauntedmansion > Room.java
+b)	GroupProjectCode_Final > HauntedMansion > src > main > java > com > example > hauntedmansion > SearchableObject.java
 
 4.	To View FXML:
   GroupProjectCode_Final > HauntedMansion > src > main > resources > com > example > hauntedmansion > hello-view.fxml
