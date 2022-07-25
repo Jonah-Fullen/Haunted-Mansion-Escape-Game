@@ -1,5 +1,5 @@
 # Haunted-Mansion-Escape-Game
-Top-down view escape room game developed using Java and JavaFX in SceneBuilder for an Object-Oriented Programming and Design class. 
+Created in Senior Year. Top-down view escape room game developed using Java and JavaFX in SceneBuilder for an Object-Oriented Programming and Design class. 
 Was developed as a 5 member group project where I was voted the group leader. 
 I wrote the vast majority of the code while other members worked on creating the graphics and storyboard text.
 
